@@ -1,0 +1,4 @@
+django==2.0.1
+mysqlclient
+channels==2.0.2
+channels_redis
